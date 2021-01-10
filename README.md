@@ -1,28 +1,28 @@
 ### Hi there 👋
 
 ### Repositories
-[![ChatApp](https://github-readme-stats.vercel.app/api/pin/?username=RovieFrancisco&repo=chat-app&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![ChatApp](https://github-readme-stats.vercel.app/api/pin/?username=RovieFrancisco&repo=chat-app&theme=radical)
 
 [More Projects...](https://github.com/RovieFtancisco/?tab=repositories)
 
 ### Social Links
-<p align="center">
+<p align="left">
 <!--
 <a target="_blank" href="https://api.whatsapp.com/send?phone=09757029634">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img align="center" alt="Whatsapp" height="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 -->
   <a target="_blank" href="https://www.instagram.com/franz0515/">
-    <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/30/instagram" />
+    <img align="center" alt="Instagram" height="35px" src="https://img.icons8.com/color/30/instagram" />
   </a>
   <a target="_blank" href="mailto:rovie8000@gmail.com">
-    <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/nolan/30/gmail" />
+    <img align="center" alt="Gmail" height="35px" src="https://img.icons8.com/nolan/30/gmail" />
   </a>
   <a target="_blank" href="https://www.facebook.com/rovie.programmer15">
-    <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/nolan/30/facebook" />
+    <img align="center" alt="Facebook" height="35px" src="https://img.icons8.com/nolan/30/facebook" />
   </a>
   <a target="_blank" href="https://www.youtube.com/c/RovieFrancisco15">
-    <img align="left" alt="Youtube" width="22px" src="https://img.icons8.com/nolan/30/youtube" />
+    <img align="center" alt="Youtube" height="35px" src="https://img.icons8.com/nolan/30/youtube" />
   </a>
 </p>
 <br />

@@ -14,16 +14,16 @@
 </a>
 -->
   <a target="_blank" href="https://www.instagram.com/franz0515/">
-    <img align="center" alt="Instagram" height="35px" src="https://img.icons8.com/nolan/30/camera" />
+    <img align="center" alt="Instagram" height="35px" src="https://img.icons8.com/nolan/80/camera" />
   </a>
   <a target="_blank" href="mailto:rovie8000@gmail.com">
-    <img align="center" alt="Gmail" height="35px" src="https://img.icons8.com/nolan/30/gmail" />
+    <img align="center" alt="Gmail" height="35px" src="https://img.icons8.com/nolan/80/gmail" />
   </a>
   <a target="_blank" href="https://www.facebook.com/rovie.programmer15">
-    <img align="center" alt="Facebook" height="35px" src="https://img.icons8.com/nolan/30/facebook" />
+    <img align="center" alt="Facebook" height="35px" src="https://img.icons8.com/nolan/80/facebook" />
   </a>
   <a target="_blank" href="https://www.youtube.com/c/RovieFrancisco15">
-    <img align="center" alt="Youtube" height="35px" src="https://img.icons8.com/nolan/30/youtube" />
+    <img align="center" alt="Youtube" height="35px" src="https://img.icons8.com/nolan/80/youtube" />
   </a>
 </p>
 

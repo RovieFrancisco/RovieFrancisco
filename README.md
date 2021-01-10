@@ -7,20 +7,20 @@
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 -->
-<a target="_blank" href="https://www.instagram.com/franz05/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="mailto:rovie8000@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://www.facebook.com/rovie.programmer15">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+  <a target="_blank" href="https://www.instagram.com/franz05/">
+    <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a target="_blank" href="mailto:rovie8000@gmail.com">
+    <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
+  <a target="_blank" href="https://www.facebook.com/rovie.programmer15">
+    <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  </a>
 </p>
 <br />
 
 ### :trophy: Github Awards
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=RovieFrancisco&theme=monokai)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=RovieFrancisco&theme=radical)
 
 ### Github Stats
 ![RovieFrancisco GitHub Stats](https://github-readme-stats.vercel.app/api?username=RovieFrancisco&show_icons=true&theme=radical)

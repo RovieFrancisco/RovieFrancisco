@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Repositories
-![ChatApp](https://github-readme-stats.vercel.app/api/pin/?username=RovieFrancisco&repo=chat-app&theme=radical)
+[![ChatApp](https://github-readme-stats.vercel.app/api/pin/?username=RovieFrancisco&repo=chat-app&theme=radical)](https://github.com/RovieFrancisco/chat-app)
 
 [More Projects...](https://github.com/RovieFtancisco/?tab=repositories)
 
@@ -25,7 +25,6 @@
     <img align="center" alt="Youtube" height="35px" src="https://img.icons8.com/nolan/30/youtube" />
   </a>
 </p>
-<br />
 
 ### :trophy: Github Awards
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=RovieFrancisco&theme=monokai)

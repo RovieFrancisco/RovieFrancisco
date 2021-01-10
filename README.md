@@ -13,16 +13,16 @@
 </a>
 -->
   <a target="_blank" href="https://www.instagram.com/franz0515/">
-    <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/30/instagram" />
   </a>
   <a target="_blank" href="mailto:rovie8000@gmail.com">
-    <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/nolan/30/gmail" />
   </a>
   <a target="_blank" href="https://www.facebook.com/rovie.programmer15">
-    <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+    <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/nolan/30/facebook" />
   </a>
   <a target="_blank" href="https://www.youtube.com/c/RovieFrancisco15">
-    <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+    <img align="left" alt="Youtube" width="22px" src="https://img.icons8.com/nolan/30/youtube" />
   </a>
 </p>
 <br />

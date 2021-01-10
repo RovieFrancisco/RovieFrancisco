@@ -3,6 +3,8 @@
 
 ### Repositories
 [![ChatApp](https://github-readme-stats.vercel.app/api/pin/?username=RovieFrancisco&repo=chat-app&theme=radical)](https://github.com/RovieFrancisco/chat-app)
+[![BluetoothOnOff](https://github-readme-stats.vercel.app/api/pin/?username=RovieFrancisco&repo=bluetooth-on-off&theme=radical)](https://github.com/RovieFrancisco/bluetooth-on-off)
+[![WifiOnOff](https://github-readme-stats.vercel.app/api/pin/?username=RovieFrancisco&repo=wifi-on-off&theme=radical)](https://github.com/RovieFrancisco/wifi-on-off)
 
 [More Projects...](https://github.com/RovieFtancisco/?tab=repositories)
 

@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Repositories
+[![ChatApp](https://github-readme-stats.vercel.app/api/pin/?username=RovieFrancisco&repo=chat-app&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Social Links
 <p align="center">
 <!--
@@ -24,9 +27,6 @@
 
 ### Github Stats
 ![RovieFrancisco GitHub Stats](https://github-readme-stats.vercel.app/api?username=RovieFrancisco&show_icons=true&theme=radical)
-
-### Wakatime Week Stats
-![roviefrancisco's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RovieFrancisco)
 
 ### Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>

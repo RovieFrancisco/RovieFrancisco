@@ -23,7 +23,7 @@
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=RovieFrancisco&theme=monokai)
 
 ### Github Stats
-![RovieFrancisco GitHub Stats](https://github-readme-stats.vercel.app/api?username=RovieFrancisco&show_icons=true)
+![RovieFrancisco GitHub Stats](https://github-readme-stats.vercel.app/api?username=RovieFrancisco&show_icons=true&theme=radical)
 
 ### Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -40,7 +40,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-[![Top Language](https://github-readme-stats-sepia-rho.vercel.app/api/top-langs?username=RovieFrancisco&layout=compact&theme=monokai)](https://github.com/RovieFrancisco/github-readme-stats)
+[![Top Language](https://github-readme-stats-sepia-rho.vercel.app/api/top-langs?username=RovieFrancisco&layout=compact&theme=monokai)]
 
 <!--
 **RovieFrancisco/RovieFrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

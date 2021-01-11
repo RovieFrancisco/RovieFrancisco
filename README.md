@@ -20,13 +20,13 @@
 </a>
 -->
   <a target="_blank" href="https://www.instagram.com/franz0515/">
-    <img align="center" alt="Instagram" height="35px" src="https://img.icons8.com/nolan/80/instagram-new" />
+    <img align="center" alt="Instagram" height="35px" src="https://img.icons8.com/nolan/100/instagram-new" />
   </a>
   <a target="_blank" href="mailto:rovie8000@gmail.com">
-    <img align="center" alt="Gmail" height="35px" src="https://img.icons8.com/nolan/80/gmail" />
+    <img align="center" alt="Gmail" height="35px" src="https://img.icons8.com/nolan/100/gmail" />
   </a>
   <a target="_blank" href="https://www.facebook.com/rovie.programmer15">
-    <img align="center" alt="Facebook" height="35px" src="https://img.icons8.com/nolan/80/facebook" />
+    <img align="center" alt="Facebook" height="35px" src="https://img.icons8.com/nolan/100/facebook" />
   </a>
   <a target="_blank" href="https://www.youtube.com/c/RovieFrancisco15">
     <img align="center" alt="Youtube" height="35px" src="https://img.icons8.com/nolan/80/youtube" />

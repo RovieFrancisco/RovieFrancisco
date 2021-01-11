@@ -5,6 +5,9 @@
 [![ChatApp](https://github-readme-stats.vercel.app/api/pin/?username=RovieFrancisco&repo=chat-app&theme=radical)](https://github.com/RovieFrancisco/chat-app)
 [![BluetoothOnOff](https://github-readme-stats.vercel.app/api/pin/?username=RovieFrancisco&repo=bluetooth-on-off&theme=radical)](https://github.com/RovieFrancisco/bluetooth-on-off)
 [![WifiOnOff](https://github-readme-stats.vercel.app/api/pin/?username=RovieFrancisco&repo=wifi-on-off&theme=radical)](https://github.com/RovieFrancisco/wifi-on-off)
+[![EncryptDecryptAscii](https://github-readme-stats.vercel.app/api/pin/?username=RovieFrancisco&repo=encrypt-decrypt-ascii&theme=radical)](https://github.com/RovieFrancisco/encrypt-decrypt-ascii)
+[![EncryptDecryptBase64](https://github-readme-stats.vercel.app/api/pin/?username=RovieFrancisco&repo=encrypt-decrypt-base64&theme=radical)](https://github.com/RovieFrancisco/encrypt-decrypt-base64)
+[![EncryptDecryptBinary](https://github-readme-stats.vercel.app/api/pin/?username=RovieFrancisco&repo=encrypt-decrypt-binary&theme=radical)](https://github.com/RovieFrancisco/encrypt-decrypt-binary)
 
 [More Projects...](https://github.com/RovieFtancisco/?tab=repositories)
 

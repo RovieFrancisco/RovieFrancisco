@@ -30,10 +30,13 @@
     <img align="center" alt="Facebook" height="35px" src="https://img.icons8.com/nolan/100/facebook" />
   </a>
   <a target="_blank" href="https://www.youtube.com/c/RovieFrancisco15">
-    <img align="center" alt="Youtube" height="35px" src="https://img.icons8.com/nolan/80/youtube" />
+    <img align="center" alt="Youtube" height="35px" src="https://img.icons8.com/nolan/100/youtube" />
   </a>
   <a target="_blank" href="https://roviemartinfrancisco.wordpress.com/">
-    <img align="center" alt="Wordpress" height="35px" src="https://img.icons8.com/nolan/80/wordpress" />
+    <img align="center" alt="Wordpress" height="35px" src="https://img.icons8.com/nolan/100/wordpress" />
+  </a>
+  <a target="_blank" href="https://wa.me/639272778139">
+    <img align="center" alt="WhatsApp" height="35px" src="https://img.icons8.com/nolan/100/whatsapp" />
   </a>
 </p>
 

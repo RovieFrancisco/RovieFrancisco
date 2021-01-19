@@ -15,11 +15,11 @@
 
 ### Social Links
 <p align="left">
-<!--
+
 <a target="_blank" href="https://api.whatsapp.com/send?phone=09757029634">
-  <img align="center" alt="Whatsapp" height="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img align="center" alt="Whatsapp" height="35px" src="https://img.icons8.com/nolan/100/whatsapp" />
 </a>
--->
+
   <a target="_blank" href="https://www.instagram.com/franz0515/">
     <img align="center" alt="Instagram" height="35px" src="https://img.icons8.com/nolan/100/instagram-new" />
   </a>

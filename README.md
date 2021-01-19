@@ -16,7 +16,7 @@
 ### Social Links
 <p align="left">
 
-<a target="_blank" href="https://api.whatsapp.com/send?phone=09757029634">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=639272778139">
   <img align="center" alt="Whatsapp" height="35px" src="https://img.icons8.com/nolan/100/whatsapp" />
 </a>
 

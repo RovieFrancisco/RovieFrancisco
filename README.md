@@ -1,3 +1,8 @@
+<!--
+<p align="center">
+  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+</p>
+-->
 ### Hi there 👋
 ```I am Rovie Francisco an aspiring App Developer and Web Developer from the Philippines. 💖```
 
@@ -59,6 +64,7 @@
 
 ### Github Stats
 ![RovieFrancisco GitHub Stats](https://github-readme-stats.vercel.app/api?username=RovieFrancisco&show_icons=true&theme=radical)
+[![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=RovieFrancisco&theme=radical)](https://github.com/RovieFrancisco)
 
 ### Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>

@@ -109,8 +109,8 @@
 
 ### Spotify Playing
 
-[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ)
-[![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q)
+[![TTMIK Podcast](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/show/72o7yWXWuGR3A1bsTjUXYd?si=Kc2X8g4hQKONuvJyRJHf9Q&utm)
+[![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7HHatszEHOzLSjKwiEnarn?si=waQf7lXmRUSN5YjpwBx6OA&utm)
 
 <!--
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/31zdns3kgu5iac3edznlv2mxvi4i?si=TKi4_94_R8ODWIUGKRnJqw&utm_source=copy-link)

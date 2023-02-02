@@ -127,9 +127,8 @@
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=FF4488&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Know+your+Limitations;But+don't+limit+Yourself;Believe%2C+Try+and+Never.+Give+Up;%22All+is+Well%22;%22Just+Simple%22)](https://git.io/typing-svg)
-<!--
-![Shinning divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
--->
+
+![Shinning divider](https://raw.githubusercontent.com/RovieFrancisco/RovieFrancisco/main/images/dynamic/hr_divider.gif)
 
 <!--
 **RovieFrancisco/RovieFrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

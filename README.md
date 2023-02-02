@@ -6,7 +6,7 @@
   </a>
 </p>
 -->
-### Hi there 👋<img src="https://camo.githubusercontent.com/689d4d6b2c0702d582f60ce755551f6815bafbd1430e01a0454ef585c7cc3427/68747470733a2f2f656d6f6a692e646973636f72642e73742f656d6f6a69732f37363862313038642d323734662d346634342d613633342d3834373762313665666365372e676966" width="30px"><!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> -->
+### Hi there 👋<img src="https://raw.githubusercontent.com/RovieFrancisco/RovieFrancisco/main/images/dynamic/cutie.gif" width="30px"><img src="https://raw.githubusercontent.com/RovieFrancisco/RovieFrancisco/main/images/dynamic/waving.gif" width="30px">
 ```I am Rovie Francisco an aspiring App Developer and Web Developer from the Philippines. 💖```
 
 ---

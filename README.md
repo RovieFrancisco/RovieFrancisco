@@ -7,6 +7,7 @@
 ![Typing Introduction](https://readme-typing-svg.demolab.com?font=Times+new+Roman&size=18&duration=2500&pause=500&width=500&vCenter=true&center=true&height=25&lines=Wellcome+to+my+Github;I+am+Rovie+Francisco;Web+Developer;Android+Application+Developer;Frontend+Developer;Backend+Developer;Soon+to+be+a+Full+Stack+Developer)
 
 </center>
+
 ---
 
 ### Repositories
@@ -77,8 +78,8 @@
 
 ### Language Activities
 ![Top Language](https://github-readme-stats-sepia-rho.vercel.app/api/top-langs?username=RovieFrancisco&layout=compact&theme=radical)
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RovieFrancisco&theme=radical)
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RovieFrancisco&theme=radical)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RovieFrancisco&layout=compact&theme=radical)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RovieFrancisco&layout=compact&theme=radical)
 
 <!--
 ![](https://github-profile-trophy.vercel.app/?username=RovieFrancisco&theme=radical&title=Commits,MultiLanguage,Repositories,Stars&column=4)

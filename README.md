@@ -1,6 +1,9 @@
 <!--
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+  <a href="https://github.com/RovieFrancisco">
+    <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png" alt="Rovie Francisco"/>
+    https://raw.githubusercontent.com/{github_user_name}/{repo_name}/{branch}/.github/images/{asset_name}.{asset_extension
+  </a>
 </p>
 -->
 ### Hi there 👋
@@ -95,6 +98,15 @@
 ### Graphical Activity
 ![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RovieFrancisco&theme=redical)
 ---
+
+### Spotify Playing
+
+[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ)
+[![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q)
+
+<!--
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/31zdns3kgu5iac3edznlv2mxvi4i?si=TKi4_94_R8ODWIUGKRnJqw&utm_source=copy-link)
+-->
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rovie.programmer15) 
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/RovieFrancisco15)

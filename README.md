@@ -107,6 +107,7 @@
 <!--
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/31zdns3kgu5iac3edznlv2mxvi4i?si=TKi4_94_R8ODWIUGKRnJqw&utm_source=copy-link)
 -->
+---
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rovie.programmer15) 
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/RovieFrancisco15)

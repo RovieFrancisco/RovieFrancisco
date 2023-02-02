@@ -4,10 +4,9 @@
 ---
 <center>
 
-![](https://readme-typing-svg.demolab.com?font=Times+new+Roman&size=18&duration=2500&pause=500&width=500&vCenter=true&center=true&height=25&lines=Wellcome+to+my+Github;I+am+Rovie+Francisco;Web+Developer;Android+Application+Developer;Frontend+Developer;Backend+Developer;Soon+to+be+a+Full+Stack+Developer)
+![Typing Introduction](https://readme-typing-svg.demolab.com?font=Times+new+Roman&size=18&duration=2500&pause=500&width=500&vCenter=true&center=true&height=25&lines=Wellcome+to+my+Github;I+am+Rovie+Francisco;Web+Developer;Android+Application+Developer;Frontend+Developer;Backend+Developer;Soon+to+be+a+Full+Stack+Developer)
 
 </center>
-
 ---
 
 ### Repositories
@@ -76,12 +75,18 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Top Language](https://github-readme-stats-sepia-rho.vercel.app/api/top-langs?username=RovieFrancisco&layout=compact&theme=monokai)
+### Language Activities
+![Top Language](https://github-readme-stats-sepia-rho.vercel.app/api/top-langs?username=RovieFrancisco&layout=compact&theme=radical)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RovieFrancisco&theme=radical)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RovieFrancisco&theme=radical)
 
+<!--
 ![](https://github-profile-trophy.vercel.app/?username=RovieFrancisco&theme=radical&title=Commits,MultiLanguage,Repositories,Stars&column=4)
 ---
+-->
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RovieFrancisco&theme=redical)
+### Graphical Activity
+![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RovieFrancisco&theme=redical)
 ---
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rovie.programmer15) 

@@ -6,7 +6,7 @@
   </a>
 </p>
 -->
-### Hi there 👋<!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> -->
+### Hi there 👋<img src="https://camo.githubusercontent.com/689d4d6b2c0702d582f60ce755551f6815bafbd1430e01a0454ef585c7cc3427/68747470733a2f2f656d6f6a692e646973636f72642e73742f656d6f6a69732f37363862313038642d323734662d346634342d613633342d3834373762313665666365372e676966" width="30px"><!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> -->
 ```I am Rovie Francisco an aspiring App Developer and Web Developer from the Philippines. 💖```
 
 ---
@@ -68,7 +68,12 @@
 ### Github Stats
 ![RovieFrancisco GitHub Stats](https://github-readme-stats.vercel.app/api?username=RovieFrancisco&show_icons=true&theme=radical)
 [![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=RovieFrancisco&theme=radical)](https://github.com/RovieFrancisco)
-
+<!--
+![GitStats Overview - Light](https://raw.githubusercontent.com/RovieFrancisco/GitStats/actions_branch/generated_images/overviewLightMode.svg#gh-light-mode-only)
+![GitStats Overview - Dark](https://raw.githubusercontent.com/Roviefrancisco/GitStats/actions_branch/generated_images/overviewDarkMode.svg#gh-dark-mode-only)
+![GitStats Languages - Light](https://raw.githubusercontent.com/Roviefrancisco/GitStats/actions_branch/generated_images/languagesLightMode.svg#gh-light-mode-only)
+![GitStats Languages - Dark](https://raw.githubusercontent.com/Roviefrancisco/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only)
+-->
 ### Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -119,6 +124,12 @@
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/RovieFrancisco15)
 [![SoloLearn](https://img.shields.io/badge/sololearn-%8088FF88.svg?&style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/Profile/7001002/?ref=app)
 [![Instagram](https://img.shields.io/badge/instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franz0515)
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=FF4488&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Know+your+Limitations;But+don't+limit+Yourself;Believe%2C+Try+and+Never.+Give+Up;%22All+is+Well%22;%22Just+Simple%22)](https://git.io/typing-svg)
+<!--
+![Shinning divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+-->
 
 <!--
 **RovieFrancisco/RovieFrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

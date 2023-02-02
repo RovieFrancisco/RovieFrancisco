@@ -6,7 +6,7 @@
   </a>
 </p>
 -->
-### Hi there 👋
+### Hi there 👋<!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> -->
 ```I am Rovie Francisco an aspiring App Developer and Web Developer from the Philippines. 💖```
 
 ---
@@ -97,6 +97,9 @@
 
 ### Graphical Activity
 ![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RovieFrancisco&theme=redical)
+<!--
+<img width="570" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+-->
 ---
 
 ### Spotify Playing
@@ -107,6 +110,9 @@
 <!--
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/31zdns3kgu5iac3edznlv2mxvi4i?si=TKi4_94_R8ODWIUGKRnJqw&utm_source=copy-link)
 -->
+
+### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/RovieFrancisco/count.svg)
 ---
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rovie.programmer15) 

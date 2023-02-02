@@ -6,7 +6,7 @@
   </a>
 </p>
 -->
-### Hi there 👋<img src="https://raw.githubusercontent.com/RovieFrancisco/RovieFrancisco/main/images/dynamic/cutie.gif" width="30px"><img src="https://raw.githubusercontent.com/RovieFrancisco/RovieFrancisco/main/images/dynamic/waving.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/RovieFrancisco/RovieFrancisco/main/images/dynamic/waving.gif" width="30px"><img src="https://raw.githubusercontent.com/RovieFrancisco/RovieFrancisco/main/images/dynamic/cutie.gif" width="30px">
 ```I am Rovie Francisco an aspiring App Developer and Web Developer from the Philippines. 💖```
 
 ---
@@ -124,11 +124,12 @@
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/RovieFrancisco15)
 [![SoloLearn](https://img.shields.io/badge/sololearn-%8088FF88.svg?&style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/Profile/7001002/?ref=app)
 [![Instagram](https://img.shields.io/badge/instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franz0515)
----
+
+![Shinning Divider](https://raw.githubusercontent.com/RovieFrancisco/RovieFrancisco/main/images/dynamic/hr_divider.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=FF4488&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Know+your+Limitations;But+don't+limit+Yourself;Believe%2C+Try+and+Never.+Give+Up;%22All+is+Well%22;%22Just+Simple%22)](https://git.io/typing-svg)
 
-![Shinning divider](https://raw.githubusercontent.com/RovieFrancisco/RovieFrancisco/main/images/dynamic/hr_divider.gif)
+![Shinning Divider](https://raw.githubusercontent.com/RovieFrancisco/RovieFrancisco/main/images/dynamic/hr_divider.gif)
 
 <!--
 **RovieFrancisco/RovieFrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

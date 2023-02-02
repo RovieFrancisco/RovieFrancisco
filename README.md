@@ -1,6 +1,15 @@
 ### Hi there 👋
 ```I am Rovie Francisco an aspiring App Developer and Web Developer from the Philippines. 💖```
 
+---
+<center>
+
+![](https://readme-typing-svg.demolab.com?font=Times+new+Roman&size=18&duration=2500&pause=500&width=500&vCenter=true&center=true&height=25&lines=Wellcome+to+my+Github;I+am+Rovie+Francisco;Web+Developer;Android+Application+Developer;Frontend+Developer;Backend+Developer;Soon+to+be+a+Full+Stack+Developer)
+
+</center>
+
+---
+
 ### Repositories
 [![ChatApp](https://github-readme-stats.vercel.app/api/pin/?username=RovieFrancisco&repo=chat-app&theme=radical)](https://github.com/RovieFrancisco/chat-app)
 [![BluetoothOnOff](https://github-readme-stats.vercel.app/api/pin/?username=RovieFrancisco&repo=bluetooth-on-off&theme=radical)](https://github.com/RovieFrancisco/bluetooth-on-off)
@@ -68,6 +77,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Top Language](https://github-readme-stats-sepia-rho.vercel.app/api/top-langs?username=RovieFrancisco&layout=compact&theme=monokai)
+
+![](https://github-profile-trophy.vercel.app/?username=RovieFrancisco&theme=radical&title=Commits,MultiLanguage,Repositories,Stars&column=4)
+---
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RovieFrancisco&theme=redical)
+---
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rovie.programmer15) 
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/RovieFrancisco15)

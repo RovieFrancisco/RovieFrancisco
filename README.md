@@ -1,11 +1,9 @@
-<!--
 <p align="center">
   <a href="https://github.com/RovieFrancisco">
-    <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png" alt="Rovie Francisco"/>
-    https://raw.githubusercontent.com/{github_user_name}/{repo_name}/{branch}/.github/images/{asset_name}.{asset_extension
+    <img style="width:8rem; height:auto" src="https://raw.githubusercontent.com/RovieFrancisco/RovieFrancisco/main/images/static/rovie_name.png" alt="Rovie Francisco"/>
+    <!--https://raw.githubusercontent.com/{github_user_name}/{repo_name}/{branch}/.github/images/{asset_name}.{asset_extension-->
   </a>
 </p>
--->
 ### Hi there <img src="https://raw.githubusercontent.com/RovieFrancisco/RovieFrancisco/main/images/dynamic/waving.gif" width="30px"><img src="https://raw.githubusercontent.com/RovieFrancisco/RovieFrancisco/main/images/dynamic/cutie.gif" width="30px">
 ```I am Rovie Francisco an aspiring App Developer and Web Developer from the Philippines. 💖```
 
